@@ -1,3 +1,5 @@
 # HelloDSC
 
-Kindly Add your Names in this lisss.
+Kindly Add your Names in this list.
+
+Pratyush Pahari
